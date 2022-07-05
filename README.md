@@ -11,6 +11,11 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h2>Using the checker</h2>
 <p><strong>To use the checker, simply get the source, extract it and open <span style="color: #ffffff; background-color: #808080;">tokens.txt</span> - paste your list of tokens and save. Run <span style="background-color: #808080; color: #ffffff;">install.bat</span> - then run <span style="background-color: #808080; color: #ffffff;">start.bat</span>!</strong></p>
+<h1 style="text-align: left;">Priorities of using this checker:</h1>
+<p style="text-align: left;"><strong>✅Fast</strong></p>
+<p style="text-align: left;"><strong>✅Extracts all valid tokens into an output</strong></p>
+<p style="text-align: left;"><strong>✅Unlimited amount of tokens</strong></p>
+<p style="text-align: left;"><strong>❌Easily customizable</strong></p>
+<p style="text-align: left;">&nbsp;</p>
